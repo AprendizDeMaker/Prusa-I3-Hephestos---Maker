@@ -3,7 +3,7 @@ All FIles
 
 [Wiki Github](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/wiki)
 
-[Pagina web Github](https://aprendizdemaker.github.io/Prusa-I3-Hephestos---Maker/)
+[Pagina web Github](https://aprendizdemaker.github.io/Web-Your-Languaje-JavaScript/)
 
 [Cambiar Tema Pagina Web](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/generated_pages/themes)
 
