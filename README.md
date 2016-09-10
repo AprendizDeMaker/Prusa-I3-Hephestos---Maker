@@ -1,8 +1,12 @@
 # Prusa-I3-Hephestos---Maker
 All FIles
+
 [Wiki Github](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/wiki)
+
 [Pagina web Github](https://aprendizdemaker.github.io/Prusa-I3-Hephestos---Maker/)
+
 [Cambiar Tema Pagina Web](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/generated_pages/themes)
+
 [Editar contenido Pagina Web](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/generated_pages/new?utf8=%E2%9C%93)
 
 ### Welcome to GitHub Pages.
