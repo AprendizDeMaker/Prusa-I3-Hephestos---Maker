@@ -1,6 +1,6 @@
 {
   "name": "Github Pagina Web ",
-  "tagline": "All FIles (Tagline)",
-  "body": "Contenido embebido de [params.json](https://raw.githubusercontent.com/AprendizDeMaker/Web-Your-Languaje-JavaScript/master/params.json)",
+  "tagline": "Descargas",
+  "body": "Contenido embebido de [params.json](https://raw.githubusercontent.com/AprendizDeMaker/Web-Your-Languaje-JavaScript/master/params.json)\r\n\r\n[Pagina web Github de Este Repositorio](https://aprendizdemaker.github.io/Web-Your-Languaje-JavaScript/)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
